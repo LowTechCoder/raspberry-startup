@@ -7,7 +7,8 @@
 #sudo apt autoclean -y
 #sudo systemctl get-default
 ##or
-#sudo systemctl set-default graphical.target.
+#sudo systemctl set-default graphical.target
 #sudo dpkg-reconfigure lightdm
 #sudo update-alternatives --config x-window-manager
+#sudo update-alternatives --config x-session-manager
 #sudo reboot
