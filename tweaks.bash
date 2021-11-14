@@ -1,6 +1,6 @@
 #sudo apt install neovim -y
 #curl -sSL https://git.io/JfAPE | bash
-#git clone https://lowtechcoder/linux-nvim
+#git clone https://github.com/lowtechcoder/linux-nvim
 #mkdir .config/nvim/
 #cp linux-nvim/init.vim .config/nvim/
 #sudo apt autoremove -y
